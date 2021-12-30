@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MolankarBhagyasri/shopping-cart/static/css/main.306b9427.css",
+    "main.js": "/MolankarBhagyasri/shopping-cart/static/js/main.a21a4a90.js",
+    "index.html": "/MolankarBhagyasri/shopping-cart/index.html",
+    "main.306b9427.css.map": "/MolankarBhagyasri/shopping-cart/static/css/main.306b9427.css.map",
+    "main.a21a4a90.js.map": "/MolankarBhagyasri/shopping-cart/static/js/main.a21a4a90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306b9427.css",
+    "static/js/main.a21a4a90.js"
+  ]
+}
